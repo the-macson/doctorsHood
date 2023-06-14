@@ -8,7 +8,7 @@
 ### Steps
 1. Clone this repository.
     <br />
-    git clone https://github.com/arihant1224/doctorsHood.git
+    git clone https://github.com/the-macson/doctorsHood.git
 
 2. Navigate to the project directory 📁 .
     <br />
